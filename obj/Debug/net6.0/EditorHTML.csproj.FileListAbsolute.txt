@@ -1,0 +1,15 @@
+C:\Estudo C#\My Career Learning .NET\editorhtml\bin\Debug\net6.0\EditorHTML.exe
+C:\Estudo C#\My Career Learning .NET\editorhtml\bin\Debug\net6.0\EditorHTML.deps.json
+C:\Estudo C#\My Career Learning .NET\editorhtml\bin\Debug\net6.0\EditorHTML.runtimeconfig.json
+C:\Estudo C#\My Career Learning .NET\editorhtml\bin\Debug\net6.0\EditorHTML.dll
+C:\Estudo C#\My Career Learning .NET\editorhtml\bin\Debug\net6.0\EditorHTML.pdb
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\EditorHTML.csproj.AssemblyReference.cache
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\EditorHTML.AssemblyInfoInputs.cache
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\EditorHTML.AssemblyInfo.cs
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\EditorHTML.dll
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\refint\EditorHTML.dll
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\EditorHTML.pdb
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\EditorHTML.genruntimeconfig.cache
+C:\Estudo C#\My Career Learning .NET\editorhtml\obj\Debug\net6.0\ref\EditorHTML.dll
